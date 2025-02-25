@@ -1,4 +1,4 @@
 - 👋 Hi, I’m fahime
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning machine learning
+- 👀 I’m interested in Machine Learning
+- 🌱 I’m currently learning python
 - ⚡ Fun fact: I started learning programming when I was 30 years old!! 30 is a wonderful age for me:)
