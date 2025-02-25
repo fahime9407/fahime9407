@@ -1,5 +1,5 @@
 - 👋 Hi, I’m fahime
-- 👀 I’m interested in programming, History, Astrologyو poetry and story.
+- 👀 I’m interested in programming and etc.
 - 🌱 I’m currently learning machine learning
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
