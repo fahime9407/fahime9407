@@ -1,9 +1,11 @@
- ---
+
+---
 
 # 👋 Hi, I'm Fahimeh!  
 🔹 **Python Developer | Learning Machine Learning**  
 
 ## About Me  
+🎓 **Bachelor’s Degree in Information Technology**  
 💻 Experienced in **Python**, **Object-Oriented Programming (OOP)**, and **MySQL**  
 🧠 Currently learning **Machine Learning** and AI  
 🌐 Hands-on experience with **Web Scraping** using `BeautifulSoup` and `requests`  
