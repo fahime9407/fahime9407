@@ -1,6 +1,4 @@
-Here's your GitHub bio in English:  
-
----
+ ---
 
 # 👋 Hi, I'm Fahimeh!  
 🔹 **Python Developer | Learning Machine Learning**  
