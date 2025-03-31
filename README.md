@@ -6,7 +6,7 @@
 
 ## About Me  
 🎓 **Bachelor’s Degree in Information Technology**  
-💻 Experienced in **Python**, **Object-Oriented Programming (OOP)**, and **MySQL**  
+💻 Experienced in **Python**, and **MySQL**  
 🧠 Currently learning **Machine Learning** and AI  
 🌐 Hands-on experience with **Web Scraping** using `BeautifulSoup` and `requests`  
 ⚙️ Skilled in **Regex** and data handling  
