@@ -1,25 +1,15 @@
 
 ---
 
-# 👋 Hi, I'm Fahimeh!  
-🔹 **Python Developer | Learning Machine Learning**  
+👩‍💻 **About Me**
 
-## About Me  
-🎓 **Bachelor’s Degree in Information Technology**  
-💻 Experienced in **Python**, and **MySQL**  
-🧠 Currently learning **Machine Learning** and AI  
-🌐 Hands-on experience with **Web Scraping** using `BeautifulSoup` and `requests`  
-⚙️ Skilled in **Regex** and data handling  
-📦 Familiar with **Git** and improving my version control skills  
+I’m Fahimeh, a graduate in Information Technology with a strong interest in programming and data science. I have solid experience with Python and am currently focused on learning machine learning concepts and techniques.
 
-## My Skills  
-🔥 **Languages:** Python 🐍  
-🗄️ **Database:** MySQL  
-🌐 **Web Scraping:** BeautifulSoup, Requests  
-📊 **Data Processing:** NumPy  
-🖥️ **GUI Development:** Tkinter  
-🔧 **Tools:** Git  
+🛠️ **Skills**  
+- Programming Language: Python  
+- Basic Machine Learning Concepts  
+- Git & GitHub  
 
-📫 Feel free to connect with me! 🚀  
+📈 Always eager to learn new technologies and contribute to open-source projects.
 
 ---
